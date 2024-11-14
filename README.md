@@ -1,4 +1,4 @@
-# __projectname__
+# __ProjectName__
 
 ## Dev
 
