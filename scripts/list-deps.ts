@@ -1,3 +1,5 @@
+#!/usr/bin/env npx tsx
+
 import Package from "../package.json";
 
 console.log(
